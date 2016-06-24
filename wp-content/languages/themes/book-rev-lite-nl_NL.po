@@ -1,0 +1,858 @@
+# Translation of Book Rev Lite in Dutch
+# This file is distributed under the same license as the Book Rev Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-05-03 10:28:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Book Rev Lite\n"
+
+#. Theme Name of the plugin/theme
+msgid "Book Rev Lite"
+msgstr "Book Rev Lite"
+
+#. Description of the plugin/theme
+msgid "Book Rev Lite is a free book review WordPress Theme. The responsive, clean and modern design includes tools for presenting your books/products in a beautiful way, you can easily add adsense ads, google fonts, custom colors, slider support and the pro version has also ecommerce ( Woocommerce ) integration.Works great for product review and amazon affiliate sites."
+msgstr "Boek Rev Lite is een gratis WordPress Thema voor boekrecensies. Het responsive, overzichtelijke en moderne ontwerp bevat tools voor het presenteren van je boeken/producten op een mooie manier. Je kunt eenvoudig AdSense-advertenties toevoegen, google fonts en aangepaste kleuren selecteren. Er is ondersteuning voor een slider en de pro versie heeft ook e-commerce ( WooCommerce ) integratie. Werkt geweldig voor review en/of amazon affiliate websites."
+
+#: class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Er zijn geen plugins geselecteerd om te installeren. Er is geen actie ondernomen."
+
+#: class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Er zijn geen plugins geselecteerd om bijgewerkt te worden. Er is geen actie ondernomen."
+
+#: class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr "Er zijn geen plugins om te installeren op dit moment."
+
+#: class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr "Er zijn op dit moment geen plugins beschikbaar om bij te werken."
+
+#: class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Er zijn geen plugins geselecteerd om geactiveerd te worden. Er is geen actie ondernomen."
+
+#: class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr "Er zijn geen plugins om te activeren op dit moment."
+
+#: class-tgm-plugin-activation.php:3362
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin %1$s bijwerken (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:2491
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Installeer %2$s"
+
+#: class-tgm-plugin-activation.php:2495
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Bijwerken %2$s"
+
+#: class-tgm-plugin-activation.php:2500
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Activeer %2$s"
+
+#: class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade bericht van de plugin auteur:"
+
+#: class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr "Update"
+
+#: class-tgm-plugin-activation.php:2289
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Te activeren <span class=\"count\">(%s)</span>"
+msgstr[1] "Te activeren <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "onbekend"
+
+#: class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr "Geïnstalleerde versie:"
+
+#: class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr "Minimaal vereiste versie:"
+
+#: class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr "Beschikbare versie:"
+
+#: class-tgm-plugin-activation.php:2422
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "Geen plugins om te installeren, bij te werken of te activeren. <a href=\"%1$s\">Terug naar het Dashboard</a>"
+
+#: class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr "Versie"
+
+#: class-tgm-plugin-activation.php:2283
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Te installeren <span class=\"count\">(%s)</span>"
+msgstr[1] "Te installeren <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2286
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update beschikbaar <span class=\"count\">(%s)</span>"
+msgstr[1] "Updates beschikbaar <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr "Vereiste update niet beschikbaar"
+
+#: class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr "Vereiste update"
+
+#: class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr "Update aangeraden"
+
+#: class-tgm-plugin-activation.php:2235
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: class-tgm-plugin-activation.php:2280
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:347
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "Sorry, maar je hebt niet de juiste rechten om de %1$s plugin te installeren."
+msgstr[1] "Sorry, maar je hebt niet de juiste rechten om de %1$s plugins te installeren."
+
+#: class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Neem voor hulp contact op met de beheerder van deze website."
+
+#: class-tgm-plugin-activation.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Er is een update beschikbaar voor: %1$s."
+msgstr[1] "Er zijn updates beschikbaar voor de volgende plugins: %1$s."
+
+#: class-tgm-plugin-activation.php:362
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "Sorry, maar je hebt niet de juiste rechten om de %1$s plugin bij te werken."
+msgstr[1] "Sorry, maar je hebt niet de juiste rechten om de %1$s plugins bij te werken."
+
+#: class-tgm-plugin-activation.php:377
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "Sorry, maar je hebt niet de juiste rechten om plugin %1$s plugin te activeren."
+msgstr[1] "Sorry, maar je hebt niet de juiste rechten om de %1$s plugins te activeren."
+
+#: class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begin bijwerken plugin"
+msgstr[1] "Begin bijwerken plugins"
+
+#: class-tgm-plugin-activation.php:401
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Geen actie ondernomen. Plugin %1$s was al actief."
+
+#: class-tgm-plugin-activation.php:402
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin niet geactiveerd. Een nieuwere versie van %s is nodig voor dit thema. Werk de plugin bij."
+
+#: class-tgm-plugin-activation.php:935
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Het externe plugin pakket bevat geen map met de gewenste slug en hernoemen werkte niet."
+
+#: class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Deze plugin moet bijgewerkt worden om geschikt te zijn voor je thema."
+
+#: class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "Update vereist"
+
+#: class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "Stel de parent_slug config variabele in."
+
+#: class-tgm-plugin-activation.php:935 class-tgm-plugin-activation.php:938
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Neem contact op met de plugin-provider en vraag hen om hun plugin te verpakken volgens de WordPress richtlijnen."
+
+#: class-tgm-plugin-activation.php:938
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Het externe plugin-pakket bestaat uit meer dan één bestand, maar de bestanden zijn niet verpakt in een map."
+
+#: class-tgm-plugin-activation.php:1116 class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "en"
+
+#: class-tgm-plugin-activation.php:1881
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr "Externe bron"
+
+#: class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr "Actief"
+
+#: templates/bookrev_slider_template.php:94
+msgid "Read More"
+msgstr "Meer lezen"
+
+#: templates/bookrev_review_wrap_up_template.php:9
+msgid "Wrap Up"
+msgstr "Afronden"
+
+#: templates/bookrev_slider_template.php:80
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: templates/bookrev_comments_cb_template.php:57
+msgid " at "
+msgstr "op"
+
+#: templates/bookrev_comments_cb_template.php:65
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie is in afwachting van moderatie."
+
+#: templates/bookrev_comments_cb_template.php:17
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: single.php:54
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:53
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: single.php:35
+msgid ", "
+msgstr ", "
+
+#: index.php:49
+msgid "There are no search results for: %s"
+msgstr "Er zijn geen zoekresultaten voor: %s"
+
+#: searchform.php:5
+msgid "Search for something"
+msgstr "Zoek naar iets"
+
+#: single.php:35
+msgid "Tags: "
+msgstr "Tags: "
+
+#: inc/cc_settings.php:1144
+msgid "Logo Width"
+msgstr "Logo breedte"
+
+#: inc/cc_settings.php:1186
+msgid "Logo Height"
+msgstr "Logo hoogte"
+
+#: inc/cc_settings.php:1208
+msgid "Main Page"
+msgstr "Hoofdpagina"
+
+#: inc/cc_settings.php:1210
+msgid "Here you can customize the way you want your main page to look and choose a predefined template for it."
+msgstr "Hier kun je de manier waarop je wilt dat je hoofdpagina er uit ziet aanpassen en een template voor de hoofdpagina kiezen."
+
+#: inc/cc_settings.php:1232
+msgid "Display Slider"
+msgstr "Toon slider"
+
+#: inc/cc_settings.php:1256
+msgid "Display Featured Category Block"
+msgstr "Toon uitgelicht categorieblok"
+
+#: inc/cc_settings.php:1280
+msgid "Display Latest Articles Carousel Block"
+msgstr "Toon recente berichten carouselblok"
+
+#: inc/cc_settings.php:1304
+msgid "Display Highlight of the Day Block"
+msgstr "Toon hoogtepunt van de dag-blok"
+
+#: inc/cc_settings.php:1336
+msgid "Slider Reviews Category"
+msgstr "Recensies Slider Categorie"
+
+#: inc/cc_settings.php:1370
+msgid "Featured Category Block Category"
+msgstr "Uitgelichte categorieblok categorie"
+
+#: inc/cc_settings.php:1404
+msgid "Highlight of the Day Category"
+msgstr "Hoogtepunt van de dag categorie"
+
+#: inc/cc_settings.php:1426
+msgid "Highlight of the Day"
+msgstr "Hoogtepunt van de dag"
+
+#: inc/cc_settings.php:1440
+msgid "Highlight of the Day Title"
+msgstr "Hoogtepunt van de dag titel"
+
+#: inc/cc_settings.php:1460
+msgid "Featured from {{category_selected}}"
+msgstr "Uitgelicht van {{category_selected}}"
+
+#: inc/cc_settings.php:1474
+msgid "Featured Category Block Title"
+msgstr "Uitgelichte categorieblok titel"
+
+#: inc/cc_settings.php:1496
+msgid "Latest Reviews"
+msgstr "Meest recente recensies"
+
+#: inc/cc_settings.php:1512
+msgid "Latest Articles Block Title"
+msgstr "Meest recente berichten-blok categorie"
+
+#: inc/cc_settings.php:1546
+msgid "Latest Articles Block Category"
+msgstr "Meest recente berichten-blok categorie"
+
+#: inc/cc_settings.php:1568 inc/cc_settings.php:1648
+msgid "5"
+msgstr "5"
+
+#: inc/cc_settings.php:1582 inc/cc_settings.php:1662
+msgid "Latest Articles Block - Article Count"
+msgstr "Meest recente berichten-blok - Berichtenteller"
+
+#: inc/cc_settings.php:1620
+msgid "Layout Type"
+msgstr "Layout-type"
+
+#: inc/cc_settings.php:1686
+msgid "Main Page Background Colors"
+msgstr "Hoofdpagina achtergrondkleuren"
+
+#: inc/cc_settings.php:1688
+msgid "For more color customization options check out the <a href='https://themeisle.com/themes/bookrev/'>PRO version</a>!"
+msgstr "Voor meer kleuraanpassingen bekijk de <a href='https://themeisle.com/themes/bookrev/'>PRO-versie</a>!"
+
+#: inc/cc_settings.php:1734
+msgid "Featured Category Block Background Color "
+msgstr "Uitgelichte categorie blok achtergrondkleur"
+
+#: inc/cc_settings.php:1784
+msgid "Latest Articles Block Background Color "
+msgstr "Recente berichten blok achtergrondkleur"
+
+#: inc/cc_settings.php:1834
+msgid "Latest Articles Block Item Hover Background Color "
+msgstr "Recente berichten blok onderdeel hover achtergrondkleur"
+
+#: inc/cc_settings.php:1884
+msgid "Highlight of the Day Block Background Color "
+msgstr "Hoogtepunt van de dag blok achtergrondkleur"
+
+#: inc/cc_settings.php:1934
+msgid "Articles Background Color "
+msgstr "Berichten achtergrondkleur"
+
+#: inc/cc_settings.php:1984
+msgid "Pagination Background Color "
+msgstr "Paginering achtergrondkleur"
+
+#: inc/cc_settings.php:2034
+msgid "Pagination Button Color "
+msgstr "Paginering knopkleur"
+
+#: inc/cc_settings.php:2084
+msgid "Pagination Button Color Hover "
+msgstr "Paginering knopkleur bij hover"
+
+#: inc/cc_settings.php:2134
+msgid "Pagination Button Color Active "
+msgstr "Paginering knopkleur bij actief"
+
+#: inc/cc_settings.php:2184
+msgid "Block Header Background Color "
+msgstr "Headerblok achtergrondkleur"
+
+#: inc/cc_settings.php:2234
+msgid "Widget Header Background Color "
+msgstr "Headerwidget achtergrondkleur"
+
+#: inc/cc_settings.php:2284
+msgid "Widget Header Top Border Color "
+msgstr "Headerwidget bovenrandkleur"
+
+#: inc/cc_settings.php:2306
+msgid "Typography"
+msgstr "Typografie"
+
+#: inc/cc_settings.php:2308
+msgid "Change the typography of your theme and the color of your content the way you want."
+msgstr "Verander de typografie van je thema en de kleur van je inhoud zoals je dat wilt."
+
+#: inc/cc_settings.php:2379
+msgid "Primary Font (Titles)"
+msgstr "Primaire lettertype (Titels)"
+
+#: inc/cc_settings.php:2397
+msgid "Secondary Font (Content)"
+msgstr "Secundair lettertype (Inhoud)"
+
+#: inc/cc_settings.php:2415
+msgid "Meta Font"
+msgstr "Meta lettertype"
+
+#: index.php:23
+msgid "Search results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: inc/cc_settings.php:754
+msgid "Footer Logo Image"
+msgstr "Voettekst logo afbeelding"
+
+#: inc/cc_settings.php:788
+msgid "Display Footer Logo Image"
+msgstr "Toon voettekst logo afbeelding"
+
+#: inc/cc_settings.php:808
+msgid "Header Settings"
+msgstr "Header instellingen"
+
+#: inc/cc_settings.php:810
+msgid "Customize the header of your website by changing the background color of the header or menu. Also set up your logo and choose whether to display the header advertisment banner (468x61) or not. , "
+msgstr "Pas de header van je website aan door het veranderen van de achtergrondkleur van de headertekst of het menu. Stel ook je logo in en kies of je de reclamebanner in de header (468x61) wel of niet weer wilt geven."
+
+#: inc/cc_settings.php:838
+msgid "Display Advertisment"
+msgstr "Toon reclame"
+
+#: inc/cc_settings.php:888
+msgid "Header Background Color"
+msgstr "Achtergrondkleur kop"
+
+#: inc/cc_settings.php:938
+msgid "Header Menu Background Color"
+msgstr "Headermenu achtergrondkleur"
+
+#: inc/cc_settings.php:978
+msgid "Advertisment Banner Image"
+msgstr "reclamebanner kleur"
+
+#: inc/cc_settings.php:1018
+msgid "Advertisment Banner URL"
+msgstr "reclamebanner URL"
+
+#: inc/cc_settings.php:1046
+msgid "This is the default advertisment banner that comes with the theme. You can change it using the WordPress Customizer."
+msgstr "Dit is de standaard reclamebanner die wordt geleverd met het thema. Je kunt dit wijzigen met behulp van de WordPress Customizer ."
+
+#: inc/cc_settings.php:1062
+msgid "Advertisment Banner Description"
+msgstr "reclamebanner beschrijving"
+
+#: inc/cc_settings.php:1102
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/cc_settings.php:233
+msgid "Set up the social links that you would like to display in the header. We recommend to display maximum 5 icons so the design doesn't break."
+msgstr "Creëer de social links die je wilt weergeven in de header. We raden aan om maximaal 5 iconen weer te geven zodat het ontwerp niet verloren gaat."
+
+#: inc/cc_settings.php:575
+msgid "Footer Settings"
+msgstr "Footer instellingen"
+
+#: inc/cc_settings.php:577
+msgid "Customize the footer by changing the background color, logo or the copyright text."
+msgstr "Pas de voettekst aan door het veranderen van de achtergrondkleur, logo of de copyright-tekst."
+
+#: inc/cc_settings.php:616
+msgid "Copyright Text"
+msgstr "Copyright tekst"
+
+#: inc/cc_settings.php:664
+msgid "Lower Footer Background Color"
+msgstr "Lagere footer achtergrondkleur"
+
+#: inc/cc_settings.php:714
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: inc/cc_settings.php:50
+msgid "Default Post Featured Image"
+msgstr "Standaard uitgelichte afbeelding"
+
+#: inc/cc_settings.php:82
+msgid "Default Product Image"
+msgstr "Standaard productafbeelding"
+
+#: inc/cc_settings.php:114
+msgid "Website Favicon"
+msgstr "Website favicon"
+
+#: inc/cc_settings.php:130
+msgid "Check out the <a href=\"https://themeisle.com/themes/bookrev/\">PRO version</a> to be able to use this widget!"
+msgstr "Bekijk de <a href=\"https://themeisle.com/themes/bookrev/\">PRO versie</a> om deze widget te kunnen gebruiken."
+
+#: inc/cc_settings.php:138
+msgid "Check out the <a href=\"https://themeisle.com/themes/bookrev/\">PRO version</a> to be able to use this template!"
+msgstr "Bekijk de <a href=\"https://themeisle.com/themes/bookrev/\">PRO versie</a> om dit template te kunnen gebruiken."
+
+#: inc/cc_settings.php:150
+msgid "BookRev Featured Reviews widget"
+msgstr "BookRev uitgelichte beoordelingen widget"
+
+#: inc/cc_settings.php:152
+msgid "This widget displays the latest reviews from a specific category."
+msgstr "Deze widget toont de laatste berichten van een specifieke categorie."
+
+#: inc/cc_settings.php:177
+msgid "BookRev Latest Comments widget"
+msgstr "BookRev Laatste reacties widget"
+
+#: inc/cc_settings.php:179
+msgid "This widget displays the latest comments."
+msgstr "Deze widget toont de meest recente reacties."
+
+#: inc/cc_settings.php:205
+msgid "Full width template page"
+msgstr "Volledige breedte paginatemplate"
+
+#: inc/cc_settings.php:231
+msgid "Social Links"
+msgstr "Sociale links"
+
+#: functions.php:553
+msgid "Default Title"
+msgstr "Standaard titel"
+
+#: inc/cc_settings.php:22
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: functions.php:36
+msgid "Primary Header Menu"
+msgstr "Primair headermenu"
+
+#: functions.php:37
+msgid "Top Bar Menu"
+msgstr "Bovenbalk-menu"
+
+#: class-tgm-plugin-activation.php:336 functions.php:146
+msgid "Something went wrong with the plugin API."
+msgstr "Er is iets fout gegaan met de plugin API."
+
+#: functions.php:166
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Activeer geïnstalleerde plugin"
+msgstr[1] "Activeer geïnstalleerde plugins"
+
+#: functions.php:172
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Alles plugins zijn succesvol geinstalleerd en geactiveerd. %s"
+
+#: functions.php:296
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: footer.php:75 inc/cc_settings.php:602
+msgid "Copyright 2015 ThemeIsle"
+msgstr "Copyright 2015 ThemeIsle"
+
+#: footer.php:80
+msgid "powered by"
+msgstr "Mogelijk gemaakt door"
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:35
+msgid "Newer Comments"
+msgstr "Nieuwere reacties"
+
+#: comments.php:33
+msgid "Older Comments"
+msgstr "Oudere reacties"
+
+#: comments.php:13
+msgid "One Comment"
+msgstr "Een reactie"
+
+#: comments.php:13 templates/bookrev_slider_template.php:80
+msgid "% Comments"
+msgstr "% reacties"
+
+#: comment-form.php:41
+msgid "Your Message..."
+msgstr "Je bericht..."
+
+#: comments.php:3
+msgid "Sorry but this article is password protected."
+msgstr "Dit bericht is beschermd met een wachtwoord."
+
+#: comments.php:13 templates/bookrev_slider_template.php:80
+msgid "No Comments"
+msgstr "Geen reacties"
+
+#: comment-form.php:31
+msgid "Website"
+msgstr "Website"
+
+#: comment-form.php:29
+msgid "Email"
+msgstr "E-mail"
+
+#: class-tgm-plugin-activation.php:3378
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin  %1$s (%2$d/%3$d) wordt geïnstalleerd"
+
+#: comment-form.php:27
+msgid "Name"
+msgstr "Naam"
+
+#: class-tgm-plugin-activation.php:3376
+msgid "%1$s installed successfully."
+msgstr "%1$s is succesvol geïnstalleerd."
+
+#: class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr "Alle installaties zijn voltooid."
+
+#: class-tgm-plugin-activation.php:3364
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Er is een fout opgetreden tijdens de installatie van %1$s: <strong> %2$s</strong>."
+
+#: class-tgm-plugin-activation.php:3365
+msgid "The installation of %1$s failed."
+msgstr "De installatie van %1$s is mislukt."
+
+#: class-tgm-plugin-activation.php:3372
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin %1$s (%2$d/%3$d) wordt geïnstalleerd en geactiveerd."
+
+#: class-tgm-plugin-activation.php:3375
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Het installatieproces is begonnen. Dit proces kan een tijdje duren afhankelijk van uw webhost, een moment geduld a.u.b."
+
+#: class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr "Alle installaties en activeringen zijn voltooid."
+
+#: class-tgm-plugin-activation.php:3370 class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr "Details verbergen"
+
+#: class-tgm-plugin-activation.php:3370
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s succesvol geïnstalleerd en geactiveerd."
+
+#: class-tgm-plugin-activation.php:3370 class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr "Details tonen"
+
+#: class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr "Plugin activatie mislukt."
+
+#: class-tgm-plugin-activation.php:3369
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Het installatie- en activeringsproces is begonnen. Dit proces kan een tijdje duren afhankelijk van uw webhost, een moment geduld a.u.b."
+
+#: class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr "Status"
+
+#: class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr "Type"
+
+#: class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr "Bron"
+
+#: class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr "Plugin"
+
+#: class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr "Activeren"
+
+#: class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr "Geïnstalleerd maar niet geactiveerd"
+
+#: class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr "Installeren"
+
+#: class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd"
+
+#: class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr "WordPress Archief"
+
+#: class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr "Verplicht"
+
+#: class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr "Voorverpakt"
+
+#: class-tgm-plugin-activation.php:828 class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr "Ga terug naar het dashboard"
+
+#: class-tgm-plugin-activation.php:400 class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgstr "De volgende plugin is succesvol geactiveerd:"
+
+#: class-tgm-plugin-activation.php:403
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins zijn succesvol geïnstalleerd en geactiveerd. %1$s"
+
+#: class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Negeer deze melding"
+
+#: class-tgm-plugin-activation.php:399 class-tgm-plugin-activation.php:3029
+#: functions.php:170
+msgid "Plugin activated successfully."
+msgstr "Plugin succesvol geactiveerd."
+
+#: class-tgm-plugin-activation.php:397 functions.php:168
+msgid "Return to Required Plugins Installer"
+msgstr "Ga terug naar de Benodigde Plugins Installer"
+
+#: class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Ga terug naar het dashboard"
+
+#: functions.php:162
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Je hebt niet de juiste rechten om de plugin %s bij te werken. Neem contact op met de administrator"
+msgstr[1] "Je hebt niet de juiste rechten om de plugins %s bij te werken. Neem contact op met de administrator"
+
+#: class-tgm-plugin-activation.php:382 functions.php:164
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin met de installatie van de plugin"
+msgstr[1] "Begin met de installatie van de plugins"
+
+#: class-tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin met activeren van plugin"
+msgstr[1] "Begin met activeren van plugins"
+
+#: functions.php:158
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Je hebt niet de juiste rechten om de plugin  %s te activeren. Neem contact op met de administrator"
+msgstr[1] "Je hebt niet de juiste rechten om de plugins  %s te activeren. Neem contact op met de administrator"
+
+#: class-tgm-plugin-activation.php:352 functions.php:160
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "De volgende plugin moet bijgewerkt worden om goed te kunnen werken bij dit thema:  %1$s."
+msgstr[1] "De volgende plugins moeten bijgewerkt worden om goed te kunnen werken bij dit thema:  %1$s."
+
+#: functions.php:152
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Je hebt geen toestemming om de plugin %s  te installeren. Neem contact op met de administrator"
+msgstr[1] "Je hebt geen toestemming om de plugins %s  te installeren. Neem contact op met de administrator"
+
+#: class-tgm-plugin-activation.php:367 functions.php:154
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "De volgende plugin is momenteel niet actief:  %1$s."
+msgstr[1] "De volgende plugins zijn momenteel niet actief:  %1$s."
+
+#: class-tgm-plugin-activation.php:372 functions.php:156
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "De volgende aanbevolen plugin is momenteel niet actief %1$s."
+msgstr[1] "De volgende aanbevolen plugins zijn momenteel niet actief %1$s."
+
+#: class-tgm-plugin-activation.php:337 functions.php:148
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dit thema heeft de volgende plugin nodig: %1$s."
+msgstr[1] "Dit thema heeft de volgende plugins nodig: %1$s."
+
+#: class-tgm-plugin-activation.php:342 functions.php:150
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dit thema raadt de volgende plugin aan: %1$s."
+msgstr[1] "Dit thema raadt de volgende plugins aan: %1$s."
+
+#: class-tgm-plugin-activation.php:335 functions.php:144
+msgid "Installing Plugin: %s"
+msgstr "Plugin %s wordt ge&#239;nstalleerd."
+
+#: 404.php:35
+msgid "404 Error!"
+msgstr "404-Fout"
+
+#: 404.php:37
+msgid "The page you are looking for could not be found!"
+msgstr "De pagina die je zoekt kan niet worden gevonden."
+
+#: class-tgm-plugin-activation.php:333 functions.php:140
+msgid "Install Required Plugins"
+msgstr "Installeer de benodigde plugins"
+
+#: class-tgm-plugin-activation.php:334 functions.php:142
+msgid "Install Plugins"
+msgstr "Plugins installeren"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/bookrev-lite/"
+msgstr "https://themeisle.com/themes/bookrev-lite/"
+
+#. Author of the plugin/theme
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
